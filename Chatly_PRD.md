@@ -29,18 +29,6 @@
 
 ---
 
-## Diagrams & Wireframes
-
-> All diagrams are live in FigJam. Click any link to open, view, and edit in Figma.
-
-| # | Diagram | Description | Open in FigJam |
-|---|---|---|---|
-| 1 | **User Flow** | End-to-end journey: Signup → Upload → Extract → Review → Sync → Dashboard | [View Diagram →](https://www.figma.com/online-whiteboard/create-diagram/9169c202-6167-4eea-875c-ef19c59c0fbd?utm_source=claude&utm_content=edit_in_figjam) |
-| 2 | **System Architecture** | NLP Pipeline → Pipeline Builder → Jira / Slack / Notion / Linear / Trello | [View Diagram →](https://www.figma.com/online-whiteboard/create-diagram/08e00113-f8f4-4e90-933f-7612d1342572?utm_source=claude&utm_content=edit_in_figjam) |
-| 3 | **Conversation State Diagram** | How a conversation moves: Raw → Processing → Extracted → Approved → Synced → Tracking | [View Diagram →](https://www.figma.com/online-whiteboard/create-diagram/198d263f-8ff0-49ba-a0e4-1f0eda8513bd?utm_source=claude&utm_content=edit_in_figjam) |
-| 4 | **Sequence Diagram** | Step-by-step interaction: User ↔ Chatly ↔ NLP Engine ↔ Jira / Slack / Notion | [View Diagram →](https://www.figma.com/online-whiteboard/create-diagram/a18914bf-e109-4f9c-8ca7-a751513253b5?utm_source=claude&utm_content=edit_in_figjam) |
-| 5 | **Product Roadmap Gantt** | MVP → V1 → V2 timeline with all 16 features mapped across 7 months | [View Diagram →](https://www.figma.com/online-whiteboard/create-diagram/4348bb18-b40a-4cb0-809e-59092b814359?utm_source=claude&utm_content=edit_in_figjam) |
-
 ---
 
 ## 1. Executive Summary
@@ -212,6 +200,18 @@ Chatly occupies a greenfield category: **AI Conversation Operationalization.**
 | MVP Feature Priority | Action extraction, Jira sync | Decision logging, Linear sync | Multi-project org, export |
 
 ---
+
+## Diagrams & Wireframes
+
+> All diagrams are live in FigJam. Click any link to open, view, and edit in Figma.
+
+| # | Diagram | Description | Open in FigJam |
+|---|---|---|---|
+| 1 | **User Flow** | End-to-end journey: Signup → Upload → Extract → Review → Sync → Dashboard | [View Diagram →](https://www.figma.com/online-whiteboard/create-diagram/9169c202-6167-4eea-875c-ef19c59c0fbd?utm_source=claude&utm_content=edit_in_figjam) |
+| 2 | **System Architecture** | NLP Pipeline → Pipeline Builder → Jira / Slack / Notion / Linear / Trello | [View Diagram →](https://www.figma.com/online-whiteboard/create-diagram/08e00113-f8f4-4e90-933f-7612d1342572?utm_source=claude&utm_content=edit_in_figjam) |
+| 3 | **Conversation State Diagram** | How a conversation moves: Raw → Processing → Extracted → Approved → Synced → Tracking | [View Diagram →](https://www.figma.com/online-whiteboard/create-diagram/198d263f-8ff0-49ba-a0e4-1f0eda8513bd?utm_source=claude&utm_content=edit_in_figjam) |
+| 4 | **Sequence Diagram** | Step-by-step interaction: User ↔ Chatly ↔ NLP Engine ↔ Jira / Slack / Notion | [View Diagram →](https://www.figma.com/online-whiteboard/create-diagram/a18914bf-e109-4f9c-8ca7-a751513253b5?utm_source=claude&utm_content=edit_in_figjam) |
+| 5 | **Product Roadmap Gantt** | MVP → V1 → V2 timeline with all 16 features mapped across 7 months | [View Diagram →](https://www.figma.com/online-whiteboard/create-diagram/4348bb18-b40a-4cb0-809e-59092b814359?utm_source=claude&utm_content=edit_in_figjam) |
 
 ## 4. Product Goals & OKRs
 
